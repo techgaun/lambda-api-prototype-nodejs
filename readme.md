@@ -4,7 +4,7 @@
 
 ### Installation
 
-Since the lambda supports nodejs 0.10.36, make sure you use this version for your local development.
+Since the lambda supports nodejs 0.10.36 (4.3.2 is available now but I did not have chance to test with it), make sure you use this version for your local development.
 
 Clone this repo and perform the module installation:
 
