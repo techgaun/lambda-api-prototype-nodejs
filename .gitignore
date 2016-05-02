@@ -1,0 +1,20 @@
+# ignore zip files
+*.zip
+
+# ignore personal infra
+infrastructure
+
+# ignore config files
+config/*.json
+!config/development-sample.json
+
+# ignore possible aws creds
+credentials.json
+
+# runner
+runner
+
+# ignore deps stuffs
+.env
+deploy.env
+node_modules

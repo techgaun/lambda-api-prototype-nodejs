@@ -1,0 +1,8 @@
+
+{
+  "name": "digi_dataservice",
+  "description": "A simple dataservice to accept digi data and write it to datastore",
+  "memory": 128,
+  "timeout": 5,
+  "environment": {}
+}
